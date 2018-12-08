@@ -1,3 +1,47 @@
+C#
+
+var client = new RestClient("https://api.ftc.gov/v0/hsr-early-termination-notices?api_key=DEMO_KEY");
+var request = new RestRequest(Method.GET);
+request.AddHeader("Postman-Token", "f7bbb14e-d792-455d-b8bb-a93234dc46a5");
+request.AddHeader("cache-control", "no-cache");
+IRestResponse response = client.Execute(request);
+
+
+
+<?php
+
+$curl = curl_init();
+
+curl_setopt_array($curl, array(
+  CURLOPT_URL => "https://api.ftc.gov/v0/hsr-early-termination-notices?api_key=DEMO_KEY",
+  CURLOPT_RETURNTRANSFER => true,
+  CURLOPT_ENCODING => "",
+  CURLOPT_MAXREDIRS => 10,
+  CURLOPT_TIMEOUT => 30,
+  CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+  CURLOPT_CUSTOMREQUEST => "GET",
+  CURLOPT_POSTFIELDS => "",
+  CURLOPT_HTTPHEADER => array(
+    "Postman-Token: 61bcf8e3-625b-441f-b4ad-2f96ffe9e7dc",
+    "cache-control: no-cache"
+  ),
+));
+
+$response = curl_exec($curl);
+$err = curl_error($curl);
+
+curl_close($curl);
+
+if ($err) {
+  echo "cURL Error #:" . $err;
+} else {
+  echo $response;
+}
+
+
+
+
+
 {
     "data": [
         {
