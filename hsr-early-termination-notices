@@ -1,0 +1,413 @@
+{
+    "data": [
+        {
+            "type": "early_termination_notice",
+            "id": "1432637",
+            "attributes": {
+                "title": "20190231: Hoya Corporation; Kai Chen",
+                "transaction-number": "20190231",
+                "acquired-entities": "Mid Labs Ltd.",
+                "acquired-party": "Kai Chen",
+                "acquiring-party": "Hoya Corporation",
+                "date": "2018-12-06",
+                "created": "2018-12-07 09:41:35",
+                "updated": "2018-12-07 09:41:35",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190231"
+            }
+        },
+        {
+            "type": "early_termination_notice",
+            "id": "1432655",
+            "attributes": {
+                "title": "20190374: The Resolute Fund IV, L.P.; Marlin Heritage, L.P.",
+                "transaction-number": "20190374",
+                "acquired-entities": "EdgeNet AcquisitionCo, Inc.",
+                "acquired-party": "Marlin Heritage, L.P.",
+                "acquiring-party": "The Resolute Fund IV, L.P.",
+                "date": "2018-12-06",
+                "created": "2018-12-07 09:41:35",
+                "updated": "2018-12-07 09:41:35",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190374"
+            }
+        },
+        {
+            "type": "early_termination_notice",
+            "id": "1432649",
+            "attributes": {
+                "title": "20190372: Edenred SA; Keith J. Stone",
+                "transaction-number": "20190372",
+                "acquired-entities": "C.S.I Enterprises, Inc.",
+                "acquired-party": "Keith J. Stone",
+                "acquiring-party": "Edenred SA",
+                "date": "2018-12-06",
+                "created": "2018-12-07 09:41:35",
+                "updated": "2018-12-07 09:41:35",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190372"
+            }
+        },
+        {
+            "type": "early_termination_notice",
+            "id": "1432661",
+            "attributes": {
+                "title": "20190403: KKR Americas Fund XII, L.P.; CAI Capital Partners and Company IV, L.P.",
+                "transaction-number": "20190403",
+                "acquired-entities": "Soil-Nail Holdings, LLC, CAI Soil-Nail Acquisition Corp.",
+                "acquired-party": "CAI Capital Partners and Company IV, L.P.",
+                "acquiring-party": "KKR Americas Fund XII, L.P.",
+                "date": "2018-12-06",
+                "created": "2018-12-07 09:41:35",
+                "updated": "2018-12-07 09:41:35",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190403"
+            }
+        },
+        {
+            "type": "early_termination_notice",
+            "id": "1432277",
+            "attributes": {
+                "title": "20190402: Mercuria Energy Group Holding Limited; Aegean Marine Petroleum Network Inc.",
+                "transaction-number": "20190402",
+                "acquired-entities": "Aegean Marine Petroleum Network Inc.",
+                "acquired-party": "Aegean Marine Petroleum Network Inc.",
+                "acquiring-party": "Mercuria Energy Group Holding Limited",
+                "date": "2018-12-04",
+                "created": "2018-12-06 08:53:21",
+                "updated": "2018-12-06 08:53:21",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190402"
+            }
+        },
+        {
+            "type": "early_termination_notice",
+            "id": "1432271",
+            "attributes": {
+                "title": "20190397: Lamb Weston Holdings, Inc.; Ochoa Ag Unlimited Foods, Inc.",
+                "transaction-number": "20190397",
+                "acquired-entities": "Lamb Weston BSW, LLC",
+                "acquired-party": "Ochoa Ag Unlimited Foods, Inc.",
+                "acquiring-party": "Lamb Weston Holdings, Inc.",
+                "date": "2018-12-04",
+                "created": "2018-12-06 08:53:21",
+                "updated": "2018-12-06 08:53:21",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190397"
+            }
+        },
+        {
+            "type": "early_termination_notice",
+            "id": "1432265",
+            "attributes": {
+                "title": "20190272: Carl Zeiss Stiftung; Iantech, Inc.",
+                "transaction-number": "20190272",
+                "acquired-entities": "Iantech, Inc.",
+                "acquired-party": "Iantech, Inc.",
+                "acquiring-party": "Carl Zeiss Stiftung",
+                "date": "2018-12-04",
+                "created": "2018-12-06 08:53:21",
+                "updated": "2018-12-06 08:53:21",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190272"
+            }
+        },
+        {
+            "type": "early_termination_notice",
+            "id": "1431905",
+            "attributes": {
+                "title": "20190373: Sun Capital Partners VI, LP.; Natural Resource Partners L.P.",
+                "transaction-number": "20190373",
+                "acquired-entities": "VantaCore Partners LLC",
+                "acquired-party": "Natural Resource Partners L.P.",
+                "acquiring-party": "Sun Capital Partners VI, LP.",
+                "date": "2018-12-03",
+                "created": "2018-12-04 09:06:02",
+                "updated": "2018-12-04 09:06:02",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190373"
+            }
+        },
+        {
+            "type": "early_termination_notice",
+            "id": "1431887",
+            "attributes": {
+                "title": "20190269: FAA Jr. Family Trust; AirCo Aviation Services LLC",
+                "transaction-number": "20190269",
+                "acquired-entities": "AirCo Aviation Services LLC",
+                "acquired-party": "AirCo Aviation Services LLC",
+                "acquiring-party": "FAA Jr. Family Trust",
+                "date": "2018-12-03",
+                "created": "2018-12-04 09:06:02",
+                "updated": "2018-12-04 09:06:02",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190269"
+            }
+        },
+        {
+            "type": "early_termination_notice",
+            "id": "1431893",
+            "attributes": {
+                "title": "20190361: Crestview Partners II, L.P.; United Services Automobile Association",
+                "transaction-number": "20190361",
+                "acquired-entities": "USAA Asset Management Company, USAA Transfer Agency Company",
+                "acquired-party": "United Services Automobile Association",
+                "acquiring-party": "Crestview Partners II, L.P.",
+                "date": "2018-12-03",
+                "created": "2018-12-04 09:06:02",
+                "updated": "2018-12-04 09:06:02",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190361"
+            }
+        },
+        {
+            "type": "early_termination_notice",
+            "id": "1431911",
+            "attributes": {
+                "title": "20190381: TowerBrook Investors IV (Onshore), L.P.; Gryphon Partners 3.5, L.P.",
+                "transaction-number": "20190381",
+                "acquired-entities": "Orchid Underwriters Holding Corp., Orchid Underwriters Agency Holdings LLC",
+                "acquired-party": "Gryphon Partners 3.5, L.P.",
+                "acquiring-party": "TowerBrook Investors IV (Onshore), L.P.",
+                "date": "2018-12-03",
+                "created": "2018-12-04 09:06:02",
+                "updated": "2018-12-04 09:06:02",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190381"
+            }
+        },
+        {
+            "type": "early_termination_notice",
+            "id": "1431719",
+            "attributes": {
+                "title": "20190396: Prime Communications, L.P.; GameStop Corp.",
+                "transaction-number": "20190396",
+                "acquired-entities": "Spring Communications Holding, LLC",
+                "acquired-party": "GameStop Corp.",
+                "acquiring-party": "Prime Communications, L.P.",
+                "date": "2018-11-30",
+                "created": "2018-12-03 10:18:41",
+                "updated": "2018-12-03 10:18:41",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190396"
+            }
+        },
+        {
+            "type": "early_termination_notice",
+            "id": "1431689",
+            "attributes": {
+                "title": "20190375: Klaus-Michael Kuhne; The Resolute Fund III, L.P.",
+                "transaction-number": "20190375",
+                "acquired-entities": "QIC Intermediate Holdings, Inc.",
+                "acquired-party": "The Resolute Fund III, L.P.",
+                "acquiring-party": "Klaus-Michael Kuhne",
+                "date": "2018-11-30",
+                "created": "2018-12-03 10:18:41",
+                "updated": "2018-12-03 10:18:41",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190375"
+            }
+        },
+        {
+            "type": "early_termination_notice",
+            "id": "1431671",
+            "attributes": {
+                "title": "20190357: Sentinel Capital Partners VI, L.P.; Irving Place Capital Partners III SPV, L.P.",
+                "transaction-number": "20190357",
+                "acquired-entities": "Pet Supplies Plus, LLC",
+                "acquired-party": "Irving Place Capital Partners III SPV, L.P.",
+                "acquiring-party": "Sentinel Capital Partners VI, L.P.",
+                "date": "2018-11-30",
+                "created": "2018-12-03 10:18:41",
+                "updated": "2018-12-03 10:18:41",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190357"
+            }
+        },
+        {
+            "type": "early_termination_notice",
+            "id": "1431677",
+            "attributes": {
+                "title": "20190359: Linden Capital Partners IV-A LP; Arlington Capital Partners III, L.P.",
+                "transaction-number": "20190359",
+                "acquired-entities": "Avalign Holdings, Inc.",
+                "acquired-party": "Arlington Capital Partners III, L.P.",
+                "acquiring-party": "Linden Capital Partners IV-A LP",
+                "date": "2018-11-30",
+                "created": "2018-12-03 10:18:41",
+                "updated": "2018-12-03 10:18:41",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190359"
+            }
+        },
+        {
+            "type": "early_termination_notice",
+            "id": "1431617",
+            "attributes": {
+                "title": "20190212: Golden Gate Capital Opportunity Fund. L.P.; VeriSign, Inc.",
+                "transaction-number": "20190212",
+                "acquired-entities": "VeriSign Sarl",
+                "acquired-party": "VeriSign, Inc.",
+                "acquiring-party": "Golden Gate Capital Opportunity Fund. L.P.",
+                "date": "2018-11-30",
+                "created": "2018-12-03 10:18:41",
+                "updated": "2018-12-03 10:18:41",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190212"
+            }
+        },
+        {
+            "type": "early_termination_notice",
+            "id": "1431653",
+            "attributes": {
+                "title": "20190352: Sun Capital Partners VI, LP.; Southfield Tier One Investment LP",
+                "transaction-number": "20190352",
+                "acquired-entities": "Tier One Holding Corp.",
+                "acquired-party": "Southfield Tier One Investment LP",
+                "acquiring-party": "Sun Capital Partners VI, LP.",
+                "date": "2018-11-30",
+                "created": "2018-12-03 10:18:41",
+                "updated": "2018-12-03 10:18:41",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190352"
+            }
+        },
+        {
+            "type": "early_termination_notice",
+            "id": "1431641",
+            "attributes": {
+                "title": "20190350: AIA Oratam Sidecar LLC; Hudson Transmission Partners, LLC",
+                "transaction-number": "20190350",
+                "acquired-entities": "Hudson Transmission Partners, LLC",
+                "acquired-party": "Hudson Transmission Partners, LLC",
+                "acquiring-party": "AIA Oratam Sidecar LLC",
+                "date": "2018-11-30",
+                "created": "2018-12-03 10:18:41",
+                "updated": "2018-12-03 10:18:41",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190350"
+            }
+        },
+        {
+            "type": "early_termination_notice",
+            "id": "1431647",
+            "attributes": {
+                "title": "20190351: Mr. Cooper Group Inc.; Evan M. Stone",
+                "transaction-number": "20190351",
+                "acquired-entities": "Pacific Union Financial, LLC",
+                "acquired-party": "Evan M. Stone",
+                "acquiring-party": "Mr. Cooper Group Inc.",
+                "date": "2018-11-30",
+                "created": "2018-12-03 10:18:41",
+                "updated": "2018-12-03 10:18:41",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190351"
+            }
+        },
+        {
+            "type": "early_termination_notice",
+            "id": "1431683",
+            "attributes": {
+                "title": "20190367: Sycamore Partners III, L.P.; Newell Brands Inc.",
+                "transaction-number": "20190367",
+                "acquired-entities": "Sea Striker, LLC, Outdoor Technologies Corporation",
+                "acquired-party": "Newell Brands Inc.",
+                "acquiring-party": "Sycamore Partners III, L.P.",
+                "date": "2018-11-30",
+                "created": "2018-12-03 10:18:41",
+                "updated": "2018-12-03 10:18:41",
+                "tags": []
+            },
+            "relationships": [],
+            "meta": [],
+            "links": {
+                "self": "https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190367"
+            }
+        }
+    ],
+    "meta": {
+        "page": "1",
+        "pages-total": "1246",
+        "records-this-page": "20",
+        "records-total": "24903"
+    },
+    "links": {
+        "self": "https://www.ftc.gov/v0/hsr-early-termination-notices"
+    }
+}
